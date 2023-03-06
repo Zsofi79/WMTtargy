@@ -1,0 +1,2 @@
+# WMTtargy
+webfejlesztés gyakorló repó
